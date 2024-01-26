@@ -1,0 +1,10 @@
+spring:
+  web:
+    resources:
+      add-mappings: true
+  thymeleaf:
+    cache: false
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    mode: HTML5
